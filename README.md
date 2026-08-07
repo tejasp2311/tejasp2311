@@ -15,7 +15,7 @@
 
 <pre>
 ├── 🛠️ Main Stack      : C++ | Python | JavaScript / TypeScript | SQLite (v3.27.2)
-├── 🧠 CP & DSA        : Automated tracking across LeetCode, Codeforces & CodeChef
+├── 🧠 DSA             : Automated tracking across LeetCode
 ├── ⚡ Crazy Interests : High-Performance Computing, Game Engine Dev & CyberSec
 └── 🎯 Status          : Dynamically updating logs & real-time activity metrics
 </pre>
@@ -34,12 +34,6 @@
   <a href="https://leetcode.com/u/TejasPatil23" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -51,21 +45,12 @@
   <a href="https://leetcode.com/u/TejasPatil23">
     <img src="https://leetcode-stats-six.vercel.app/api?username=TejasPatil23&theme=dark" height="185" alt="LeetCode Stats" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE&theme=cyberpunk" height="185" alt="Codeforces Stats" />
-  </a>
 </p>
 
 <!-- Live Automated JSON API Counters -->
 <p align="center">
   <a href="https://leetcode.com/u/TejasPatil23">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=$.totalSolved&url=https://leetcode-stats-api.vercel.app/TejasPatil23&color=00f0ff&logo=leetcode" />
-  </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=YOUR_CODEFORCES_HANDLE&color=0077b5&logo=codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CodeChef%20Rating&query=$.currentRating&url=https://codechef-api.vercel.app/YOUR_CODECHEF_HANDLE&color=5B4638&logo=codechef" />
   </a>
 </p>
 
