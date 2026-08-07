@@ -69,8 +69,3 @@
 
 ---
 
-### ⚡ Auto-Updating Tech Quote
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0f172a&author_color=00f0ff&quote_color=ffffff" alt="Daily Quote" />
-</p>
