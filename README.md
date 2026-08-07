@@ -15,9 +15,8 @@
 
 <pre>
 ├── 🛠️ Main Stack      : C++ | Python | JavaScript / TypeScript | SQLite (v3.27.2)
-├── 🧠 DSA             : Automated tracking across LeetCode
-├── ⚡ Crazy Interests : High-Performance Computing, Game Engine Dev & CyberSec
-└── 🎯 Status          : Dynamically updating logs & real-time activity metrics
+└── 🧠 DSA             : Automated tracking across LeetCode
+
 </pre>
 
 ---
