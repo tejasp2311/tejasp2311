@@ -62,10 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasp2311&theme=dark&background=0F172A&border=0F172A&stroke=00F0FF&alarm=FF5555&fire=00F0FF&ring=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00F0FF&currStreakLabel=00F0FF" width="48%" />
 </p>
 
-<!-- Automated Contribution Snake Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tejasp2311/tejasp2311/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 ---
 
