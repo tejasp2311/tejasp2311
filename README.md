@@ -37,7 +37,7 @@
 
 ---
 
-### 🏆 Dynamic CP & DSA Hub
+### 🏆 Leetcode Tracker
 
 <!-- Interactive Visual Cards -->
 <p align="center">
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 Dynamic GitHub Activity & Metrics
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejasp2311&show_icons=true&theme=cyan&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0f172a" width="48%" />
